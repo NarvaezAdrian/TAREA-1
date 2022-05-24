@@ -16,7 +16,7 @@
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-**CAPITULO 1**
+ * **CAPITULO 1**
 
 **SECCIÓN 1–2 Notación científica**
 
