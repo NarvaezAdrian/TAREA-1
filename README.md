@@ -12,6 +12,7 @@
 
 
 
+![1](https://user-images.githubusercontent.com/106161399/170141394-8b05d769-d0ab-46e5-b261-dd4fea428855.png)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
