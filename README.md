@@ -481,4 +481,12 @@ Respuesta : **250 V**
 ![imagen](https://user-images.githubusercontent.com/93879569/141306953-95a3caf8-b61b-4dd8-bb1f-73ec83e59d33.png)
 
 
+4.- VIDEO
+
+
+5.- CONCLUSIONES 
+* 
+*
+*
+*
 
