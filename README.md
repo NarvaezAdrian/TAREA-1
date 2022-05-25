@@ -402,7 +402,7 @@ tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
 
 ![image](https://user-images.githubusercontent.com/93734334/141008456-e445a164-fd66-4583-8937-ccbf4899ac4b.png)
 
-33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
+34. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
 
 ![image](https://user-images.githubusercontent.com/93734334/141009051-447953a4-8386-4953-a4d0-14b9c7637c64.png)
 
@@ -410,13 +410,13 @@ tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
 
 ![image](https://user-images.githubusercontent.com/93734334/141009693-c51304e3-03ee-4875-88c2-c60a0179a15e.png)
 
-35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
+36. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
 VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
 VS1 conectada a R2 y VS2 conectada a R1
 
 **Sección 2-7 Mediciones de circuitos básicos**
 
-37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
+38. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
 fuente en la figura 2-72.
 
 ![image](https://user-images.githubusercontent.com/93733175/141316825-4f88d31f-8272-46e1-a87c-64a4ea0c1948.png)
@@ -425,7 +425,7 @@ fuente en la figura 2-72.
 
 ![image](https://user-images.githubusercontent.com/93733175/141316630-ad15dcdb-1a43-44e3-8ca1-1f83e95d5f51.png)
 
-39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
+40. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
 ¿En la posición 2?
 
 ![image](https://user-images.githubusercontent.com/93733175/141317897-d3e92528-3280-4ea6-b0cc-8d4e2b3302ab.png)
@@ -436,7 +436,7 @@ fuente en la figura 2-72.
   
   Posición 2: V1 = Vs, V2 = 0 V
   
-41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
+42. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
 través del resistor y la que sale de la batería.
 
 ![image](https://user-images.githubusercontent.com/93733175/141318970-e1580ea8-965d-400c-baee-835401492257.png)
@@ -445,13 +445,13 @@ través del resistor y la que sale de la batería.
 
 ![image](https://user-images.githubusercontent.com/93733175/141319945-de24394f-2ba5-4d22-b5c9-3161bb81b7aa.png)
 
-43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+44. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
 ![imagen](https://user-images.githubusercontent.com/93879569/141306490-ef188de8-b0d7-4392-bc17-fcac8b590994.png)
 
 Respuesta : **250 V**
 
-45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de óhmetro:
+46. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de óhmetro:
 
 (a) manecilla en 2, ajuste de intervalo en 10
 
@@ -465,7 +465,7 @@ Respuesta : **250 V**
 
 45 * 100 Ω = **4500 Ω** 
 
-47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
+48. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
 
 (a)  I_1 	(b) V_1	 (c) R_1
 
