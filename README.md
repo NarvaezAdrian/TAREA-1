@@ -485,10 +485,12 @@ Respuesta : **250 V**
 
 
 5.- CONCLUSIONES 
-* Como conclusión, se tiene que existen dos unidades de medición, las fundamentales que a su vez se van a dividir en siete unidades fundamentales y dos unidades complementarias, por otro lado, existen las unidades derivadas, las cuales son utilizadas por las unidades eléctricas y magnéticas. De igual manera la notacion científica es de suma importancia puesto que va a ayudar a representar numeros muy grandes o muy pequeños para posteriormente poder realizar calculos con estos.
-*
-*
-*
+* Como conclusión, se tiene que existen dos unidades de medición en unidades fundamentales y complementarias
+* Las medidas fundamentales se dividen en 7 fundamentales y dos unidades complementarias
+* Las las unidades derivadas son utilizadas por unidades eléctricas y magnéticas
+* la natación de ingeniería es importante en los campos técnicos específicamente en electrónica que se usa para representar valores de voltajes, corrientes, resistencias ,potencias,etc
+* Un circuito necesita al menos una resistencia para que no se genere un cortocircuito, además que se debe conocer el código de colores para conocer la cantidad de ohms presentes
+* 
 
 6.- BIBLIOGRAFIA 
 Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
