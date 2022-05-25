@@ -490,7 +490,8 @@ Respuesta : **250 V**
 * Las las unidades derivadas son utilizadas por unidades eléctricas y magnéticas
 * la natación de ingeniería es importante en los campos técnicos específicamente en electrónica que se usa para representar valores de voltajes, corrientes, resistencias ,potencias,etc
 * Un circuito necesita al menos una resistencia para que no se genere un cortocircuito, además que se debe conocer el código de colores para conocer la cantidad de ohms presentes
-* 
+* Se debe tener un previo conocimiento de conexión de circuitos al utilizar un instrumento de medición
+* y finalmente se llegó a entender que la relación del voltaje con la corriente y la resistencia es bastante útil ya que gracias a estos es bastante sencillo solucionar los problemas de requerimientos que se tengan
 
 6.- BIBLIOGRAFIA 
 Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
