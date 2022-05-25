@@ -9,6 +9,8 @@
 * Resolver los ejercicios del capítulo 1 y 2 del correspondiente libro.
 
 2.- MARCO TEORICO
+![image](https://user-images.githubusercontent.com/106161399/170317302-59d796bc-1a7b-4161-b3da-07c1575340dc.png)
+![image](https://user-images.githubusercontent.com/106161399/170317801-27397dd5-4512-4bfd-adfe-0aafcf718279.png)
 
 ![1](https://user-images.githubusercontent.com/106161399/170141394-8b05d769-d0ab-46e5-b261-dd4fea428855.png)
 ![2](https://user-images.githubusercontent.com/106161399/170141570-fa6e10c8-cd30-45f5-984f-41c1e4b7b96d.png)
