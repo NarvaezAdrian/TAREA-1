@@ -195,7 +195,207 @@
     = 0.02 x 10^-6 F + 0.0033 X 10^-6 F
     = 0.0233 X 10^-6 F
     = **0.0233 uF**
+    
+    
+* **Capitulo 2**
 
+**Sección 2-2 Carga Eléctrica**
+
+2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+
+* **Respuesta: 4.64 x 10^-18C**
+
+4. ¿Cuántos coulombs de carga poseen 50 X 10^31 electrones?
+
+    Q = (50 X 10^31)/(6.25 X 10^18)
+    
+    **Q = 8.0 X 10^12C**
+
+**Sección 2–3 Voltaje, corriente y resistencia**
+
+6. Determine el voltaje en cada uno de los siguientes casos:
+* Resolución
+
+   (a) 10J/C
+   
+   Resolvemos mediante la formula **V = W/Q**
+   
+    V = 10 J/C
+    
+    **V = 10 V**
+   
+   (b) 5J/2C
+   
+    V = 5J/2C
+    
+    **V = 2.5 V**
+   
+   (c) 100J/25C
+   
+     V = 100 J/25 C
+   
+     V = 4(25) J/25 C
+     
+     **V = 4 V**
+
+8. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+* Resolución
+
+     V=W/C
+    
+     V=800J/40C
+    
+     V=80J/4C
+    
+     **V=20**
+
+10. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+
+     I=Q/t
+      
+     Q=Ixt
+      
+     Q=2x15
+      
+     Q=30
+
+     V=W/Q
+      
+     V=1000/30
+      
+     **V=33.3 [V]**
+
+**Sección 2 – 3 Voltaje corriente y resistencia**
+
+12. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+
+Datos:
+
+Q = 6/10   C
+
+t = 3 s
+
+Planteamiento 
+
+I=  Q/t
+
+Procedimiento
+
+I=  ( 6/10  C)/(3 s)
+
+I=  2/10   C/s
+
+**I=0.2 A**
+ 
+14. ¿Cuántos coulomb pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+Datos 
+
+t = 0.1 s
+
+I = 1.5 A
+
+Planteamiento
+
+I=  Q/t
+
+Q=I*t
+
+Procedimiento
+
+Q=1.5  C/s*0.1 s
+**Q=0.15 C**
+
+16. Determine la conductancia para cada uno de los siguientes valores de resistencia:
+
+(a) 5 Ω 		(b) 25 Ω	(c) 100 Ω
+
+Planteamiento
+
+Conductancia: 	G = 1/R , siendo R la resistencia
+
+(a)
+
+G=  1/(5 Ω)
+**G=0.2 mho**
+
+(b)
+
+G=  1/(25 Ω)
+**G=0.04 mho**
+
+(c)
+
+G=  1/(100 Ω)
+**G=0.01 mho**
+
+**Sección 2 – 4 Fuentes de voltaje y de corriente**
+
+18. Enliste cuatro fuentes de voltaje comunes.
+	
+	**Batería**
+	
+	**Celda solar**
+	
+	**Generador**
+	
+	**Termopares**
+
+20.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+**La fuente electrónica de potencia convierte el voltaje de corriente alterna de una toma de corriente de pared en voltaje constante de corriente directa**
+
+**Sección 2 – 5 Resistores**
+
+22. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+
+(a) rojo, violeta, naranja, oro 
+
+**Respuesta: 27 000 Ω y tolerancia del ± 5 %**
+
+(b) café, gris, rojo, plata
+
+**Respuesta: 1 800 Ω y tolerancia del ± 10 %**
+
+24. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de
+tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
+
+330 Ω = **naranja, naranja, café y oro.**
+
+2.2 kΩ = 2 200 Ω = **rojo, rojo, rojo y oro.**
+
+56 kΩ = 56 000 Ω = **verde, azul, naranja y oro.**
+
+100 kΩ = 100 000 Ω = **café, negro, amarillo y oroz.**
+
+39 k Ω = 39 000 Ω =**naranja, blanco, naranja y oro.**
+
+26. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+
+(a) 0.47 Ω	 (b) 270 kΩ 	(c) 5.1 M Ω
+
+(a) 0.47 Ω = **amarillo, violeta, plata y oro.**
+
+(b) 270 k Ω = 270 000 Ω = **rojo, violeta, amarillo y oro.**
+
+(c) 5.1 M Ω = **verde, café, azul y oro. (debido a que es Mega ohmio posee 6 ceros.)**
+
+28. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+
+(a) 14.7 k Ω	 (b) 39.2 Ω	 (c) 9.76 kΩ
+
+(a) 14.7 k Ω = 14 700 Ω = **café, amarillo, violeta, rojo y café.**
+
+(b) 39.2 Ω = **naranja, blanco, rojo, oro y café.**
+
+(c) 9.76 k Ω = 9 760 Ω = **blanco, violeta, azul, café y café.**
+
+30. ¿Cuál es la resistencia indicada por 4K7?
+
+4K7 = **4.7 k Ω**
+
+**Sección 2-6 El circuito eléctrico**
+
+32. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
 
 
