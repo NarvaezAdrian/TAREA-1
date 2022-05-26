@@ -482,6 +482,8 @@ Respuesta : **250 V**
 
 
 4.- VIDEO
+https://www.youtube.com/watch?v=_oXSBmDpupY
+
 
 
 5.- CONCLUSIONES 
