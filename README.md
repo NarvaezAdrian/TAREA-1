@@ -484,7 +484,7 @@ Respuesta : **250 V**
 4.- VIDEO
 
 
- **https://www.youtube.com/watch?v=_oXSBmDpupY
+ https://www.youtube.com/watch?v=_oXSBmDpupY
 
 
 
@@ -498,7 +498,9 @@ Respuesta : **250 V**
 * y finalmente se llegó a entender que la relación del voltaje con la corriente y la resistencia es bastante útil ya que gracias a estos es bastante sencillo solucionar los problemas de requerimientos que se tengan
 
 6.- BIBLIOGRAFIA 
-**Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
+
+
+Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
 
 RUBRICA
 
